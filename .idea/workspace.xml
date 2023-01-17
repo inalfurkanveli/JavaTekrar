@@ -5,18 +5,11 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd499b65-478d-4d10-9fc4-035773c6035b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2_veriablesScanner/C10_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2_veriablesScanner/C2_DataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2_veriablesScanner/C3_Non_primitiveDataTypes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2_veriablesScanner/C4_NamingConvention.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2_veriablesScanner/C5_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2_veriablesScanner/C6_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2_veriablesScanner/C7_scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2_veriablesScanner/C8_Scanner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day2_veriablesScanner/C9_Scanner.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3_dataCasting_MatIslemler/C01_DataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3_dataCasting_MatIslemler/C2_ExplicitNarrowing.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3_dataCasting_MatIslemler/C3_DataCasting.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day3_dataCasting_MatIslemler/C4_CharDataCasting.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2_veriablesScanner/Veriables.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2_veriablesScanner/C1_Veriables.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -51,7 +44,33 @@
     "SHARE_PROJECT_CONFIGURATION_FILES": "true"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.C9_Scanner">
+  <component name="RunManager" selected="Application.C4_CharDataCasting">
+    <configuration name="C3_DataCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3_dataCasting_MatIslemler.C3_DataCasting" />
+      <module name="JavaTekrar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day3_dataCasting_MatIslemler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="C4_CharDataCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day3_dataCasting_MatIslemler.C4_CharDataCasting" />
+      <module name="JavaTekrar" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="day3_dataCasting_MatIslemler.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="C7_scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day2_veriablesScanner.C7_scanner" />
       <module name="JavaTekrar" />
@@ -80,6 +99,8 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.C4_CharDataCasting" />
+        <item itemvalue="Application.C3_DataCasting" />
         <item itemvalue="Application.C9_Scanner" />
         <item itemvalue="Application.C7_scanner" />
       </list>
