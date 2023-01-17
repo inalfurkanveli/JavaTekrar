@@ -1,6 +1,6 @@
 package day2_veriablesScanner;
 
-public class Veriables {
+public class C1_Veriables {
 /*
 Java'da kodlarimizi class'larda olustururuz
 Class'lar ihtiyac duyuldugunda obje olusturmak icin de kullanilir
