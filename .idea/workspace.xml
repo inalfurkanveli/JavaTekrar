@@ -4,13 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="cd499b65-478d-4d10-9fc4-035773c6035b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day3_dataCasting_MatIslemler/C01_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3_dataCasting_MatIslemler/C2_ExplicitNarrowing.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3_dataCasting_MatIslemler/C3_DataCasting.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day3_dataCasting_MatIslemler/C4_CharDataCasting.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="cd499b65-478d-4d10-9fc4-035773c6035b" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
