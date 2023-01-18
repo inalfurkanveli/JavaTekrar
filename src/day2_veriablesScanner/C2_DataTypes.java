@@ -5,6 +5,8 @@ public class C2_DataTypes {
         char character= 'w';
         char chc2='2';
         char chc3='$';
+
+        char chc4='%';
         // char ch4=' .'; char data türü sadece 1 karakterli deger kabul eder.
 
         long sayi= 7523233232223L; // int sınırından buyuk bir degeri long variable'a atamak istersek
