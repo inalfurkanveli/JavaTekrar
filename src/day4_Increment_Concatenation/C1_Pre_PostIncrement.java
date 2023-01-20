@@ -50,5 +50,12 @@ public class C1_Pre_PostIncrement {
         // ++ variable'dan önce ise artirma islemini önce yapar
         // bu durumda java önce artirma sonra yazdirma islemi yapar.
 
+
+        System.out.println(sayi++);
+        System.out.println(sayi);
+
+
+
+
     }
 }

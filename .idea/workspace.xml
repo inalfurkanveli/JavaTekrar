@@ -5,15 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd499b65-478d-4d10-9fc4-035773c6035b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day4_Increment_Concatenation/C1_Pre_PostIncrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4_Increment_Concatenation/C2_Pre_PostIncrement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4_Increment_Concatenation/C3_Concatenation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day4_Increment_Concatenation/C4_Operatorler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5_ifStatement/C1_ifStatement.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5_ifStatement/C2_ifStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day5_ifStatement/C3_ifStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C10_NestedIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C11_NestedIfElse.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C1_ifElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C2_ifElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C3_ifElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C4_ifElseStatements.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C5_ifElseif.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C6_ifElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C7_ifElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C8_ifElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C9_NestedElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C1_IfElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C2_ifElseIf.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C3_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C4_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C5_Ternary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C6_Sorular.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C7_NestedTernary.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day2_veriablesScanner/C2_DataTypes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day2_veriablesScanner/C2_DataTypes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day4_Increment_Concatenation/C1_Pre_PostIncrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4_Increment_Concatenation/C1_Pre_PostIncrement.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +59,7 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C2_Pre_PostIncrement">
+  <component name="RunManager" selected="Application.C1_Pre_PostIncrement">
     <configuration name="C1_Pre_PostIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="day4_Increment_Concatenation.C1_Pre_PostIncrement" />
       <module name="JavaTekrar" />
@@ -116,8 +127,8 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C2_Pre_PostIncrement" />
         <item itemvalue="Application.C1_Pre_PostIncrement" />
+        <item itemvalue="Application.C2_Pre_PostIncrement" />
         <item itemvalue="Application.C4_CharDataCasting" />
         <item itemvalue="Application.C3_DataCasting" />
         <item itemvalue="Application.C9_Scanner" />
