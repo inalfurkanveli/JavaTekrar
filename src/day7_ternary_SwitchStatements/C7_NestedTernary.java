@@ -11,7 +11,7 @@ public class C7_NestedTernary {
 
         // System.out.println(sayi>0 ? "sayi pozitif" : "sayi pozitif degil");
 
-        System.out.println(sayi>0 ? sayi%2==0 ? "cift sayi" : "tek sayi" : -100>=sayi && sayi>=-999 ? "3 basamakli" : "# basamakli degil"
+        System.out.println(sayi>0 ? sayi%2==0 ? "cift sayi" : "tek sayi" : -100>=sayi && sayi>=-999 ? "3 basamakli" : "3 basamakli degil"
         );
 
 

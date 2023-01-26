@@ -5,26 +5,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd499b65-478d-4d10-9fc4-035773c6035b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C10_NestedIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C11_NestedIfElse.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C1_ifElseStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C2_ifElseStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C3_ifElseStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C4_ifElseStatements.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C5_ifElseif.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C6_ifElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C7_ifElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C8_ifElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C9_NestedElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C1_IfElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C2_ifElseIf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C3_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C4_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C5_Ternary.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C6_Sorular.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C7_NestedTernary.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8_StringManipulasion/C1_StringManipulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8_StringManipulasion/C2_toUpperCaseLocal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8_StringManipulasion/C3_Equals.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8_StringManipulasion/C4_equalsIgnoreCase.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day8_StringManipulasion/C5_charAt.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day4_Increment_Concatenation/C1_Pre_PostIncrement.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day4_Increment_Concatenation/C1_Pre_PostIncrement.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day6_ifElseStatements/C6_ifElseIf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day6_ifElseStatements/C6_ifElseIf.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C7_NestedTernary.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day7_ternary_SwitchStatements/C7_NestedTernary.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
