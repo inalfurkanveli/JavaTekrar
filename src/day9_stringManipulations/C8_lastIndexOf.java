@@ -7,12 +7,14 @@ public class C8_lastIndexOf {
         // ilk a'nin index'ini yazdiralim
         System.out.println(str.indexOf("a")); // 1
 
+        System.out.println(str.length());
+
         // son a'nin index'ini yazdirin
 
         System.out.println(str.lastIndexOf("a")); // 39
 
 
-        System.out.println(str.lastIndexOf("a", 15));
+        System.out.println(str.lastIndexOf("a", 25));
 
 
         // verilen str'da cok kelimesinin kullanimini kontrol edip

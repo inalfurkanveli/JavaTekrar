@@ -8,7 +8,7 @@ public class C6_length {
 
         // sondan 3.karakteri yazdirin
 
-        System.out.println(str.charAt(str.length()-3)); // y
+        System.out.println(str.charAt(str.length()-3)); // m
 
         System.out.println(str.length()); // 50
 

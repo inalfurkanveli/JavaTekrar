@@ -5,7 +5,26 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd499b65-478d-4d10-9fc4-035773c6035b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day9_stringManipulations/C1_concatenation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C10_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C11_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C1_NullPointer.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C2_replace.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C3_replaceAll.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C4_replaceFirst.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C5_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C6_Soru.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C7_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C8_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C9_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11_forLoop/C1_forLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11_forLoop/C2_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11_forLoop/C3_AsalSyi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11_forLoop/C4_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11_forLoop/C5_ForLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day11_forLoop/C6_fizzBuzz.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day8_StringManipulasion/C6_length.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8_StringManipulasion/C6_length.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/day9_stringManipulations/C8_lastIndexOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9_stringManipulations/C8_lastIndexOf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -40,13 +59,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C1_Pre_PostIncrement">
-    <configuration name="C1_Pre_PostIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4_Increment_Concatenation.C1_Pre_PostIncrement" />
+  <component name="RunManager" selected="Application.C11_forLoop">
+    <configuration name="C11_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C11_forLoop" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4_Increment_Concatenation.*" />
+          <option name="PATTERN" value="day10_stringManipulations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -54,12 +73,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C2_Pre_PostIncrement" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day4_Increment_Concatenation.C2_Pre_PostIncrement" />
+    <configuration name="C4_replaceFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C4_replaceFirst" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day4_Increment_Concatenation.*" />
+          <option name="PATTERN" value="day10_stringManipulations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -67,12 +86,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C3_DataCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3_dataCasting_MatIslemler.C3_DataCasting" />
+    <configuration name="C7_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C7_forLoop" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3_dataCasting_MatIslemler.*" />
+          <option name="PATTERN" value="day10_stringManipulations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -80,12 +99,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C4_CharDataCasting" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day3_dataCasting_MatIslemler.C4_CharDataCasting" />
+    <configuration name="C8_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C8_forLoop" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day3_dataCasting_MatIslemler.*" />
+          <option name="PATTERN" value="day10_stringManipulations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -93,12 +112,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C9_Scanner" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day2_veriablesScanner.C9_Scanner" />
+    <configuration name="C9_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C9_forLoop" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day2_veriablesScanner.*" />
+          <option name="PATTERN" value="day10_stringManipulations.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -108,11 +127,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C1_Pre_PostIncrement" />
-        <item itemvalue="Application.C2_Pre_PostIncrement" />
-        <item itemvalue="Application.C4_CharDataCasting" />
-        <item itemvalue="Application.C3_DataCasting" />
-        <item itemvalue="Application.C9_Scanner" />
+        <item itemvalue="Application.C11_forLoop" />
+        <item itemvalue="Application.C9_forLoop" />
+        <item itemvalue="Application.C8_forLoop" />
+        <item itemvalue="Application.C7_forLoop" />
+        <item itemvalue="Application.C4_replaceFirst" />
       </list>
     </recent_temporary>
   </component>
