@@ -5,26 +5,22 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="cd499b65-478d-4d10-9fc4-035773c6035b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C10_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C11_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C1_NullPointer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C2_replace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C3_replaceAll.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C4_replaceFirst.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C5_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C6_Soru.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C7_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C8_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day10_stringManipulations/C9_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11_forLoop/C1_forLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11_forLoop/C2_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11_forLoop/C3_AsalSyi.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11_forLoop/C4_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11_forLoop/C5_ForLoop.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/day11_forLoop/C6_fizzBuzz.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_methodCreation/C1_Method.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_methodCreation/C2_MethodOlusturma.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_methodCreation/C3_AsalSayi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_methodCreation/C4_Faktoriyel.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_methodCreation/C5_HesapMakinesi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_methodCreation/C6_MethodKullanimi.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_methodCreation/C7_TerseCevirme.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_methodCreation/C8_Palindrome.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day12_methodCreation/C9_Fibonacci.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_methodOverloading_whileLoop/C1_MethodCall.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_methodOverloading_whileLoop/C2_MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_methodOverloading_whileLoop/C3_MethodOverloading.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_methodOverloading_whileLoop/C4_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_methodOverloading_whileLoop/C5_WhileLoop.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/day13_methodOverloading_whileLoop/C6_sifreKontrol.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day8_StringManipulasion/C6_length.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day8_StringManipulasion/C6_length.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/day9_stringManipulations/C8_lastIndexOf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/day9_stringManipulations/C8_lastIndexOf.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -59,13 +55,13 @@
     &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;
   }
 }</component>
-  <component name="RunManager" selected="Application.C11_forLoop">
-    <configuration name="C11_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C11_forLoop" />
+  <component name="RunManager" selected="Application.C1_MethodCall">
+    <configuration name="C1_MethodCall" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day13_methodOverloading_whileLoop.C1_MethodCall" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_stringManipulations.*" />
+          <option name="PATTERN" value="day13_methodOverloading_whileLoop.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -73,12 +69,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C4_replaceFirst" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C4_replaceFirst" />
+    <configuration name="C3_AsalSayi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_methodCreation.C3_AsalSayi" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_stringManipulations.*" />
+          <option name="PATTERN" value="day12_methodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -86,12 +82,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C7_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C7_forLoop" />
+    <configuration name="C4_Faktoriyel" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_methodCreation.C4_Faktoriyel" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_stringManipulations.*" />
+          <option name="PATTERN" value="day12_methodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -99,12 +95,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C8_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C8_forLoop" />
+    <configuration name="C6_MethodKullanimi" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_methodCreation.C6_MethodKullanimi" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_stringManipulations.*" />
+          <option name="PATTERN" value="day12_methodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -112,12 +108,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="C9_forLoop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="day10_stringManipulations.C9_forLoop" />
+    <configuration name="C7_TerseCevirme" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="day12_methodCreation.C7_TerseCevirme" />
       <module name="JavaTekrar" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="day10_stringManipulations.*" />
+          <option name="PATTERN" value="day12_methodCreation.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -127,11 +123,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.C11_forLoop" />
-        <item itemvalue="Application.C9_forLoop" />
-        <item itemvalue="Application.C8_forLoop" />
-        <item itemvalue="Application.C7_forLoop" />
-        <item itemvalue="Application.C4_replaceFirst" />
+        <item itemvalue="Application.C1_MethodCall" />
+        <item itemvalue="Application.C7_TerseCevirme" />
+        <item itemvalue="Application.C6_MethodKullanimi" />
+        <item itemvalue="Application.C4_Faktoriyel" />
+        <item itemvalue="Application.C3_AsalSayi" />
       </list>
     </recent_temporary>
   </component>
